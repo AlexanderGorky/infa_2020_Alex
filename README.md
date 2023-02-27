@@ -1,1 +1,2 @@
-# infa_2020_Alex
+infa_2020_Alex
+it's test project
